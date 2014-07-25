@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VhostManage", "VhostManage\VhostManage.csproj", "{6B8B22E7-13E7-4107-9052-7C9D5E1DC238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VhostManageSetup", "VhostManageSetup\VhostManageSetup.csproj", "{39C9C863-7B91-49B5-B788-51F8FD9D83E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B8B22E7-13E7-4107-9052-7C9D5E1DC238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8B22E7-13E7-4107-9052-7C9D5E1DC238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8B22E7-13E7-4107-9052-7C9D5E1DC238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8B22E7-13E7-4107-9052-7C9D5E1DC238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C9C863-7B91-49B5-B788-51F8FD9D83E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C9C863-7B91-49B5-B788-51F8FD9D83E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C9C863-7B91-49B5-B788-51F8FD9D83E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C9C863-7B91-49B5-B788-51F8FD9D83E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

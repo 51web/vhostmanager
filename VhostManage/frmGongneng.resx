@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label1.Text" xml:space="preserve">
+    <value>功能说明：
+
+    网站管理助手是集多年虚拟主机服务及管理经验所推出的,面向独立服务器WEB管理员的一款小巧、
+易用、省事的网站管理软件,该软件功能实用,界面简单、容易上手,将极大方便经常管理网站的站长或
+对WEB服务器配置不太熟悉的用户。以后将推出网络管理版。
+
+　详细功能如下：
+
+　一、添加站点
+　    1)自动添加系统帐号,主要是防止FSO跨站漏洞,保证每个网站之间互不受安全问题影响。
+　    2)自动建立网站目录
+　    3)自动设置目录权限(仅该网站帐户可访问,其它网站用户无权访问)
+　    4)自动添加IIS站点,设置主目录,设置登录帐户,绑定域名,设置默认文档,设置脚本映射。
+　    5)自动添加FTP帐号,设置FTP密码
+　    6)自动添加MYSQL数据库
+
+  二、修改站点
+　    1)可修改FTP密码
+　    2)可修改绑定域名
+　    3)可修改脚本权限
+　    4)可设置应用程序池
+
+  三、删除站点
+　    1)将删除所有添加的内容(警告,同时将删除网站目录中的数据以及MYSQL数据库,可选择是否删除)
+
+    本软件是绿色免费软件,使用它将会给你繁琐的网站管理工作带来便利,即使是新手,也会得心应手
+</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAGACoDAAAFgAAACgAAAAgAAAAQAAAAAEAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAD////////////////////////+/v/+/////////v////////3///7////9/v7+/v7//v///v7+//7+
+        /v7///7+//7///7+//79/v3////////////////////////////////////////////////////8/P/8
+        /+38/fD+9//z8P/1+fnv9fb1/P74/Pz7/Pv//vz++fv+/f79/f3///79//z+//3+//v6+/f/////////
+        ////////////////////////////////////////////+/////Ln8fWfn+qDhPF8hOuChN7Gxvf////9
+        /fT9+fr9/P/7/vn//v/////+//78/vv+/vz///v/////////////////////////////////////////
+        /////////////f7y8f+Ok/AVF8sRGt0LE9MXENxIRNrB1ev///z//v/8+fr+/vf8+/79/f7////+/f77
+        /Pr+//z///////////////////////////////////////////////////////PL1PUvMcUbIegYK9wk
+        MtwcKOcQGd81NdaVmevm7Pv///v++/v+/v/8+/39/f3///////79/vz/////////////////////////
+        /////////////////////////////f3s7P9tcOEZHM8aI9okLN4iK+MgL+UYH9kiItFfXeG6wfb7////
+        /v7////9/P79/P3////6+/r/////////////////////////////////////////////////////9f//
+        //Dk8fZ1g/ILEtEKF9EjJ9YxMNghMtgdLugVHNkxOcubo+f//+v////////8+/3////8+/z/////////
+        ///////////////////9+v77+/f///v99v//+/7///P///vm6v7y9P7///vq3PFLUdIUIOIOFdwaKd0e
+        MNYhMNYhH+ccEfFDTeudqu3y9vf///3/+/74/vn+/f77/Pr7/Pr+///+/P7/+/7//v/7/fz+/vj++/r/
+        +v/9+f/6/v7///urp+9aXdius/Xz+/n7//+9wfBsad0UDNASF+YdK+ImMtApNMwbIN4gG8+LjvPx/v/5
+        //T9//v49v78/f/3+//5/v/6/vz8//n+//37//7//v7///z+/vX2//X4//v6//91feEKFNkdHOVybdvP
+        0uL9//b6//ynsu5GSN8LBdUdJNsoM9ssLdsfJNoqM8iSn+v1+f////H9//f+/vr8/f39/v75+/r1/Pj9
+        /v35/fz59/z/+/3+//jo8vnZ5P10d+sVJr4aMN4XJ+IZG9UiItNvb+fW4vT///7j8PSDhOQlI+IRH88k
+        KdQfM9oXK+QcJNCHiO7z9/////P///P///T//vn++//++P7+/v/5/vj//P/+9v3///+4tvRLO9EgJtsc
+        J+MeKd0hNM4fNtALHu0JC+czKeGgoe3v+fz4//zI4O18hPU2Pd0aI9kUI+wVJ+UWJsZJW+fP1vfn6v/+
+        /v///vr9+/z+9////f/2/Pv8+P///fX//+/R3f9OStoeIdwlK9woK9crMNsmKtgpMNcgLNkRG9wYF9Ja
+        W9LY2Pn////8//O+w+6PkNt1dOdDRtsmLNYaH9s0OtVjaNjJzvr6///1/fLx//f9//74+f/5+f7//f3/
+        //X1//u0uO4hI+4LFeMcLN4hMNEmLs8zL9UtKtYlLtgcMOUMFd1DQ93j4v////P///Xw+vjz+vzb2/ib
+        lPE7PMwYGuNgYO6np+/z8v3+//v6/vn+//73+fz+////+/r///j///T////l7fKMjt0sLdQPFuUYJ+si
+        L9goLeEqMtocMr8rM+UYENs/PNejrfzy7v///////P3///76//7v7v9baeNvdcnX2Pb6+Pz++/f+/P3/
+        /v/7/fT///f///D59/v26/////j19ff///rHy+h4cuMrKuADG9EPKsojLtQtLuUnJt0oMd8ZKtYMHc59
+        e+7u9PT///X6/PP+/+7//P7g8f3Cy9/m6O7////+/fz8+v7//v//+vv//fv///6usuNybN6JlOFMW9aP
+        lO7b2vX+/fnX3f5baN8eIM8XFNEiLeAcLdkbL9gfLtQjLdggLM1wgtzU1//68////vz5+/z7//z+///9
+        +/v//P/9/f76+/7+/v///P/5+v/f7v9zfvIMD9ISIt4RJtcRGtUxNNWLkurt9///+/3HxfhUWtAMDMkV
+        GOceJuIqKNU3L94cJeYPF/Bze/Pn7PP+//bw+v///f7++f3++/7//f/9+//6+/z+/v7///vb4PRlY84k
+        IdYaIt4bK+QlK9sjLuATId8QF941M9KkqOzv9P70/P/M0/1xcNwyKtkhJd8aJ9MnJ9omLMFQV9LF0//y
+        /v3//fj/+/j///v///38/v36+vr8+/v///////f0/P+Mj+sZFtEmK+8aLdcfL9IkL9olLNsmK+EWH88e
+        L9VLVt6Yn975//75//bG0eRndN4eGe1QTerA1P+ap+CDgOarpubt8PL///v/+vv8+vz4/vv9//38/P3+
+        /v7/+/z8//zK2/4wNcEWGOIbKuUiN98hMNoiKtUlKNUoLtogKtsVGNtjcOX6//////r///z5+/+2uPJz
+        eNaAd+XK3evn9fq3tO28xej/+f///Pf9/fj6/P/29f/+//j///3+/P78//j5//+ss+NlZNgvK8YZG9cj
+        J+MnL+IlL9osLdkyLtoqH95JQ+O6xfX///////X///X///v9///Z3Oy2rurT0v/s9//w9/36///4/Pn6
+        /PD///L//vj7+f7+/f/4+/3+/Pv///v////q6v+zrvBYUuYtLNgYH9cYJeEfLOMeLNQkMNAaHNE0MdeH
+        kOfDyvf5+/////T/+v7////+//jX1/q7rPmyq+LE0O/1+f/9/Pr+/fP//Pf/+////f77/vz//P//+//+
+        +/r///r///3b4v+OleZBScocJs4PHtoTKOYcMt8hL+IZJeQcI9koINZ6fuLf8/T///7+///7+f/7//Pv
+        8vXCrfWTldfP0fXu7P7//P//+P/+/Pz//v3//v7//fz9/v79+/7//vz///L///f3/f/X3vybou5PVdUV
+        G8UQFc8eJeUbKtwbL9YbJ90eI9hQWuevtvjn+PX///r/+P7+/f/6//Ll7fzAvu2zrePe4PX8////+///
+        /v//+/3+/vb4//Ty+fz8+v///P7/+v////z///X///729v+ysP5nYeIqKcwiKdIfLtweLuAWItcGDMw1
+        MtC7xPn27vz+9Pj8/+74//z+///6///k7P7PzvTj4vr+/fv///3/////////////////////////////
+        ///////+/v7///z///34/P20uu5JTN4XGeMQFdhFT919iOeJj+bg7P/q6u778/r//P/9+v3+/f3/////
+        //37+/f7+/n+/v7////////////////////////////////////+/v79/f39/f39/f3//f/////X6fWc
+        q/JQVdksL8R6gPbH1//v///6+/z//P///fv+/fv////////+/v78/Pz9/f3+/v7/////////////////
+        ///////////9/f3+/v79/f3///////////////j//vv//P/3//bw//i6v/FiVs94ZN7h4f38//r///H/
+        //H9/vv////+/v7////////////+/v7////////////////////////////8/Pz+/v79/f3/////////
+        ///7+/35+vb/+/j/+vv/+f7////29vvGwfPq7/T6//n///r8/fz99f/+//79/f3+/v7////////9/f3/
+        ///////////////////////////+/v7+/v7+/v7////////////6+vz6/Pr7+/T//fn/+v3/+v///v//
+        //r9//j59//6/Pz8//L///j9/f79/f3+/v7////////+/v7/////////////////////////////////
+        /////////////////////v3+/vz9/v72/fr1/vf6//v4+/j9+vz//vr19//7/v7+//z58v3+/v7+/v7/
+        //////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+</value>
+  </data>
+</root>
