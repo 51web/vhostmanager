@@ -10,7 +10,7 @@
 环境要求
 --------
 
-ISS6 + PHP5 + MSSQL + MYSQL
+IIS6 + PHP5 + MSSQL + MYSQL
 
 使用指南
 --------
